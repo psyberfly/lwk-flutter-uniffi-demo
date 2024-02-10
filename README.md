@@ -2,7 +2,7 @@
 
 A demo flutter app for Android providing [lwk_bindings](https://docs.rs/lwk_bindings/latest/lwk_bindings) (lwk_wollet, lwk_signer,lwk_common) over FFI.  
 lwk_bindings for Kotlin generated from [lwk](https://github.com/Blockstream/lwk) via uniFFI.  
-lwk_bindings invoked from Flutter using platform channels.  
+lwk_bindings invoked from Flutter using [flutter platform channels](https://docs.flutter.dev/platform-integration/platform-channels).  
 
 ## Pre-requesites:
 
