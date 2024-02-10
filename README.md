@@ -14,7 +14,6 @@ Kotlin-bindings located in:
 
 For Android, ensure that the gradle.build and gradle.settings match those mentioned in the official [lwk_android_example](https://github.com/Blockstream/lwk/tree/master/lwk_bindings/android_bindings).
 
-
 ## Dev:
 
 2 interfaces need to be maintained:
@@ -25,9 +24,10 @@ The kotlin-binary interface in:
 The dart-kotlin interface in:
 [Dart-Kotlin interface](lib/main.dart)
 
-
 ## Usage:
 
 1. flutter pub get
 2. flutter run
 
+## Dev Help:
+To get intellisense or autocomplete suggestions for methods exported by lwk_bindings.kt, work with MainActivity.kt in Android Studio.
