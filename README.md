@@ -9,7 +9,7 @@ lwk_bindings invoked from Flutter using [flutter platform channels](https://docs
 Android binaries located in:
 [Android bins](android/app/src/main/jniLibs)
 
-Kotlin-binary located in:
+Kotlin-bindings located in:
 [Kotlin_bindings](android/app/src/main/kotlin/lwk_bindings.kt)
 
 For Android, ensure that the gradle.build and gradle.settings match those mentioned in the [lwk_android_example](https://github.com/Blockstream/lwk/tree/master/lwk_bindings/android_bindings).
