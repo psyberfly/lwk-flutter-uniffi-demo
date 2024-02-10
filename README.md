@@ -12,7 +12,7 @@ Android binaries located in:
 Kotlin-bindings located in:
 [Kotlin_bindings](android/app/src/main/kotlin/lwk_bindings.kt)
 
-For Android, ensure that the gradle.build and gradle.settings match those mentioned in the [lwk_android_example](https://github.com/Blockstream/lwk/tree/master/lwk_bindings/android_bindings).
+For Android, ensure that the gradle.build and gradle.settings match those mentioned in the official [lwk_android_example](https://github.com/Blockstream/lwk/tree/master/lwk_bindings/android_bindings).
 
 
 ## Dev:
