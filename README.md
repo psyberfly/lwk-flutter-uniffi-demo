@@ -4,7 +4,7 @@ A demo flutter app for Android providing [lwk_bindings](https://docs.rs/lwk_bind
 lwk_bindings for Kotlin generated from [lwk](https://github.com/Blockstream/lwk) via uniFFI.  
 lwk_bindings invoked from Flutter using [flutter platform channels](https://docs.flutter.dev/platform-integration/platform-channels).  
 
-## Pre-requesites:
+## Pre-requisites:
 
 Android binaries located in:
 [Android bins](android/app/src/main/jniLibs)
