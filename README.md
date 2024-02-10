@@ -4,6 +4,15 @@ A demo flutter app for Android providing lwk_bindings (lwk_wollet, lwk_signer,lw
 lwk_bindings for Kotlin generated from lwk (https://github.com/Blockstream/lwk) via uniFFI.  
 lwk_bindings invoked from Flutter using platform channels.  
 
+## Dev:
+
+The kotlin-binary interface is written in: 
+[Kotlin-Bin interface](android/app/src/main/kotlin/com/example/uniffi_flutter_test/MainActivity.kt)
+
+The dart-kotlin interface is written in:
+[Dart-Kotlin interface](lib/main.dart)
+
+
 ## Usage:
 
 1. flutter pub get
