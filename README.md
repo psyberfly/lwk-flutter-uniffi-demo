@@ -5,6 +5,7 @@ lwk_bindings for Kotlin generated from [lwk](https://github.com/Blockstream/lwk)
 lwk_bindings invoked from Flutter using platform channels.  
 
 ## Pre-requesites:
+
 Android binaries located in:
 [Android bins](android/app/src/main/jniLibs)
 
@@ -13,7 +14,11 @@ Kotlin-binary located in:
 
 For Android, ensure that the gradle.build and gradle.settings match those mentioned in the [lwk_android_example](https://github.com/Blockstream/lwk/tree/master/lwk_bindings/android_bindings).
 
+
 ## Dev:
+
+2 interfaces need to be maintained:
+
 The kotlin-binary interface is written in: 
 [Kotlin-Bin interface](android/app/src/main/kotlin/com/example/uniffi_flutter_test/MainActivity.kt)
 
