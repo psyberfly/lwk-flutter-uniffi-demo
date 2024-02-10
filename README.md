@@ -19,10 +19,10 @@ For Android, ensure that the gradle.build and gradle.settings match those mentio
 
 2 interfaces need to be maintained:
 
-The kotlin-binary interface is written in: 
+The kotlin-binary interface in: 
 [Kotlin-Bin interface](android/app/src/main/kotlin/com/example/uniffi_flutter_test/MainActivity.kt)
 
-The dart-kotlin interface is written in:
+The dart-kotlin interface in:
 [Dart-Kotlin interface](lib/main.dart)
 
 
