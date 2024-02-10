@@ -30,4 +30,4 @@ The dart-kotlin interface in:
 2. flutter run
 
 ## Dev Help:
-To get intellisense or autocomplete suggestions for methods exported by lwk_bindings.kt, work with MainActivity.kt in Android Studio.
+If autocomplete suggestions (intellisense) for methods exported by lwk_bindings.kt are unavailable in your IDE, work with MainActivity.kt in Android Studio.
